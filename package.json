@@ -6,7 +6,6 @@
     "@babel/types": "^7.22.5"
   },
   "dependencies": {
-    "tapable": "^2.2.1",
-    "webpack": "^5.88.0"
+    "tapable": "^2.2.1"
   }
 }
